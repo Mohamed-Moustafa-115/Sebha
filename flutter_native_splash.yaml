@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: images/playstore.png
+  android: true
+  android_gravity: center
+  fullscreen: false
+  android_12:
+    image: images/playstore.png
+    color: "#ffffff"
+    image_dark: images/playstoreblack.png
+    color_dark: "#000000"
